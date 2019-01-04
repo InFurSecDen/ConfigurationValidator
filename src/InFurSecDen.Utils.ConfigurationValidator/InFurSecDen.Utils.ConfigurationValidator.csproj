@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon />
+    <Win32Resource />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>TC Fox</Authors>
+    <Description>An extension to IConfigurationBuilder that validates the final IConfiguration build based off a set of rules in a JSON file.</Description>
+    <RepositoryUrl>https://github.com/InFurSecDen/ConfigurationValidator</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/InFurSecDen/ConfigurationValidator</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/InFurSecDen/ConfigurationValidator/blob/master/LICENSE</PackageLicenseUrl>
+    <Version>1.0.0-alpha1</Version>
   </PropertyGroup>
 
   <ItemGroup>
