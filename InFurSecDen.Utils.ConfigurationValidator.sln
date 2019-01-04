@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InFurSecDen.Utils.ConfigurationValidator", "src\InFurSecDen.Utils.ConfigurationValidator\InFurSecDen.Utils.ConfigurationValidator.csproj", "{5F8A747C-23B9-4BCA-A448-41C043F3C522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F8A747C-23B9-4BCA-A448-41C043F3C522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8A747C-23B9-4BCA-A448-41C043F3C522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8A747C-23B9-4BCA-A448-41C043F3C522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8A747C-23B9-4BCA-A448-41C043F3C522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
